@@ -1,0 +1,3 @@
+interface HabilidadEspecial {
+    void usarHabilidad();
+}
